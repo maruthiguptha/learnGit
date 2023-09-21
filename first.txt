@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Simhadri appanna govinda.
 comment from first branch
-=======
-siimhadr appanna first change
->>>>>>> f4d0a63ef3621af65dd38b61c4e788bfd8b8cfc7
